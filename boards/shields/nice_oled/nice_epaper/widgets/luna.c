@@ -34,7 +34,7 @@ LV_IMG_DECLARE(dog_sneak2_90);
 #define ANIMATION_SPEED_IDLE 960
 const lv_img_dsc_t *idle_imgs[] = {
     &dog_sit1_90,
-    &dog_sit2_90,
+//    &dog_sit2_90,
 };
 
 // #define ANIMATION_SPEED_SLOW 2000
